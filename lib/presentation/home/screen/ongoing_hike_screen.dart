@@ -145,8 +145,8 @@ class _OngoingHikeScreenState extends State<OngoingHikeScreen> {
   Future<void> _fetchRoute() async {
     final start = '${_hike.startLatitude},${_hike.startLongitude}';
     final end = '${_hike.endLatitude},${_hike.endLongitude}';
-    const apiKey = 'AIzaSyBAU-5L4DGCVATlc_UsFpnkDdzbavLOeuo'; // Replace with your actual Google Maps API key
-    final url = 'https://maps.googleapis.com/maps/api/directions/json?origin=$start&destination=$end&key=$apiKey';
+    const apiKey = ''; // Replace with your actual Google Maps API key
+    final url = 
     
     try {
       final response = await http.get(Uri.parse(url));
