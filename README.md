@@ -18,7 +18,7 @@ To create a vibrant community where bikers and travelers can easily find compani
 - **Accessibility**: Making biking and travel accessible to everyone
 - **Adventure**: Encouraging exploration and new experiences
 - **Sustainability**: Promoting responsible travel practices
-<img width="180" alt="Screenshot 2025-06-16 at 1 40 56 PM" src="https://github.com/user-attachments/assets/78916f24-f91d-4835-befd-edee2290a9ca" />
+<img width="200" alt="Screenshot 2025-06-16 at 1 40 56 PM" src="https://github.com/user-attachments/assets/78916f24-f91d-4835-befd-edee2290a9ca" />
 <img width="250" alt="Screenshot 2025-06-16 at 1 41 24 PM" src="https://github.com/user-attachments/assets/9dce55a8-f942-4248-b275-3faabd6582ba" />
 <img width="250" alt="Screenshot 2025-06-16 at 9 14 26 PM" src="https://github.com/user-attachments/assets/477b418d-02c0-4948-9fb5-27d4cb288188" />
 
