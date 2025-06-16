@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257261313103",
+    "project_id": "ride-companion-app",
+    "storage_bucket": "ride-companion-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257261313103:android:dbc1e2039638068e29de3a",
+        "android_client_info": {
+          "package_name": "com.example.ridecompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQWoARAR6RT6i2kDkAZDCHPTw-9NDjZgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257261313103:android:91ebadbd704f56bf29de3a",
+        "android_client_info": {
+          "package_name": "com.example.roveeee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQWoARAR6RT6i2kDkAZDCHPTw-9NDjZgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
