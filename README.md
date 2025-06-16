@@ -3,9 +3,10 @@
 ## Project Overview 🌟
 
 RoveX (Ride, Travel, Experience, Adventure) is a community-driven platform designed to connect biking enthusiasts and travel adventurers. Our mission is to make biking and travel more accessible, social, and organized by bringing together people who share a passion for exploration and adventure.
-<img width="237" alt="Screenshot 2025-06-16 at 1 34 58 PM" src="https://github.com/user-attachments/assets/9854f93c-7856-49ae-a08d-7ce782b71f67" />
-<img width="246" alt="Screenshot 2025-06-16 at 1 35 08 PM" src="https://github.com/user-attachments/assets/7ec5a82a-55f6-4654-931e-38a8f30d3005" />
-<img width="317" alt="Screenshot 2025-06-16 at 1 39 06 PM" src="https://github.com/user-attachments/assets/7e6eae7e-fed8-416f-9a60-903833b3ba45" />
+<img width="250" alt="Screenshot 2025-06-16 at 1 34 58 PM" src="https://github.com/user-attachments/assets/9854f93c-7856-49ae-a08d-7ce782b71f67" />
+<img width="250" alt="Screenshot 2025-06-16 at 1 39 06 PM" src="https://github.com/user-attachments/assets/7e6eae7e-fed8-416f-9a60-903833b3ba45" />
+<img width="250" alt="Screenshot 2025-06-16 at 1 35 08 PM" src="https://github.com/user-attachments/assets/7ec5a82a-55f6-4654-931e-38a8f30d3005" />
+
 
 
 ### Vision 🎯
@@ -17,9 +18,9 @@ To create a vibrant community where bikers and travelers can easily find compani
 - **Accessibility**: Making biking and travel accessible to everyone
 - **Adventure**: Encouraging exploration and new experiences
 - **Sustainability**: Promoting responsible travel practices
-<img width="310" alt="Screenshot 2025-06-16 at 1 40 56 PM" src="https://github.com/user-attachments/assets/78916f24-f91d-4835-befd-edee2290a9ca" />
-<img width="348" alt="Screenshot 2025-06-16 at 1 41 24 PM" src="https://github.com/user-attachments/assets/9dce55a8-f942-4248-b275-3faabd6582ba" />
-<img width="392" alt="Screenshot 2025-06-16 at 9 14 26 PM" src="https://github.com/user-attachments/assets/477b418d-02c0-4948-9fb5-27d4cb288188" />
+<img width="250" alt="Screenshot 2025-06-16 at 1 40 56 PM" src="https://github.com/user-attachments/assets/78916f24-f91d-4835-befd-edee2290a9ca" />
+<img width="250" alt="Screenshot 2025-06-16 at 1 41 24 PM" src="https://github.com/user-attachments/assets/9dce55a8-f942-4248-b275-3faabd6582ba" />
+<img width="250" alt="Screenshot 2025-06-16 at 9 14 26 PM" src="https://github.com/user-attachments/assets/477b418d-02c0-4948-9fb5-27d4cb288188" />
 
 ## Detailed Features 🌈
 
@@ -99,8 +100,8 @@ To create a vibrant community where bikers and travelers can easily find compani
 - Set route parameters
 - Monitor participant safety
 - Coordinate group logistics
-<img width="369" alt="Screenshot 2025-06-16 at 9 14 39 PM" src="https://github.com/user-attachments/assets/fd9e92c5-f804-4b4d-bb3c-7321df7e4c66" />
-<img width="345" alt="Screenshot 2025-06-16 at 9 14 49 PM" src="https://github.com/user-attachments/assets/af4344dd-8654-4997-a1d8-4016077c296f" />
+<img width="250" alt="Screenshot 2025-06-16 at 9 14 39 PM" src="https://github.com/user-attachments/assets/fd9e92c5-f804-4b4d-bb3c-7321df7e4c66" />
+<img width="250" alt="Screenshot 2025-06-16 at 9 14 49 PM" src="https://github.com/user-attachments/assets/af4344dd-8654-4997-a1d8-4016077c296f" />
 
 ## Technical Implementation 💻
 
