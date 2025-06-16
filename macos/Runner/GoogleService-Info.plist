@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDYROV7wM-uXZ_XBqoK_NdbC1lUHLyZTXs</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>257261313103</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.roveeee</string>
+	<string></string>
 	<key>PROJECT_ID</key>
 	<string>ride-companion-app</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:257261313103:ios:4e2f4515482441ff29de3a</string>
+	<string></string>
 </dict>
 </plist>
