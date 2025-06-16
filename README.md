@@ -3,10 +3,11 @@
 ## Project Overview 🌟
 
 RoveX (Ride, Travel, Experience, Adventure) is a community-driven platform designed to connect biking enthusiasts and travel adventurers. Our mission is to make biking and travel more accessible, social, and organized by bringing together people who share a passion for exploration and adventure.
+
+
 <img width="250" alt="Screenshot 2025-06-16 at 1 34 58 PM" src="https://github.com/user-attachments/assets/9854f93c-7856-49ae-a08d-7ce782b71f67" />
 <img width="250" alt="Screenshot 2025-06-16 at 1 39 06 PM" src="https://github.com/user-attachments/assets/7e6eae7e-fed8-416f-9a60-903833b3ba45" />
 <img width="250" alt="Screenshot 2025-06-16 at 1 35 08 PM" src="https://github.com/user-attachments/assets/7ec5a82a-55f6-4654-931e-38a8f30d3005" />
-
 
 
 ### Vision 🎯
